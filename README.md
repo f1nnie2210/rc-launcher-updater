@@ -1,0 +1,1 @@
+# rc-launcher-updater
